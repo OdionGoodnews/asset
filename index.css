@@ -1,0 +1,29 @@
+.track_item{
+	color: gray;
+	border-radius: 3px;
+	border: 1px solid lightgray;
+	padding: 10px;
+	font-size: 17px;
+	margin: 5px 0px;
+}
+.profile-setting{
+	border: 1px solid lightgray;
+	padding: 6px;
+	text-align: center;
+	border-radius: 5px;
+}
+.profile-list > input{
+	margin: 10px 0px;
+}
+.profile-list{
+	position: relative;
+	top: 2px;
+}
+.profile-img{
+	height: 20px;
+	width: 20px;
+	border-radius: 100% !important;
+}
+.total_asset{
+	color:red;
+}
